@@ -1,9 +1,12 @@
 body{
-	background:url("../img/bg.png");
+	
+	background:url("../img/resumebg.png");
+	font-family: 'Prata', serif;
+
 }
 
 p{
-	text-align:center;
+	text-align: center;
 	font-weight: bold;
 }
 ul{
@@ -12,6 +15,10 @@ ul{
 }
 li{
 	text-decoration: none;
+}
+
+h1{	
+text-align: center;
 }
 h2{
 	text-align: center;
