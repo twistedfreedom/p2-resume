@@ -1,28 +1,42 @@
 body{
-	
 	background:url("../img/resumebg.png");
 	font-family: 'Prata', serif;
+}
 
+
+}
+div{
+	list-style-type:none;
+	
+}
+
+
+h1{	
+text-align: center;
+}
+
+h2{
+	text-align: center;
+}
+
+h3{
+	text-align: center;
+}
+
+li{
+	list-style-type: none;
+	
 }
 
 p{
 	text-align: center;
 	font-weight: bold;
 }
-ul{
+
+.grid_12{
 	text-align: center;
-	list-style-type: none;
-}
-li{
-	text-decoration: none;
 }
 
-h1{	
+.grid_12 ul li{ 
 text-align: center;
-}
-h2{
-	text-align: center;
-}
-h3{
-	text-align: center;
 }
